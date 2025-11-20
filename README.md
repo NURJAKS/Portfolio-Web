@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my web development skills and projects. Built with clean code and best practices.
 
-![Portfolio Preview](https://portfo1io-web.netlify.app)
+Try it! (https://portfo1io-web.netlify.app)
 
 ## ✨ Features
 
