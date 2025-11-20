@@ -58,12 +58,13 @@ text
    git clone https://github.com/NURJAKS/Portfolio-Web.git
 Navigate to project directory
 
-bash
-cd portfolio
-Open in browser
+   ```bash
+   cd portfolio
+```
+  # Open in browser
 
-bash
-# Open index.html in your preferred browser
+ Open index.html in your preferred browser
+ 
 open index.html
 📱 Responsive Breakpoints
 Mobile: < 768px
@@ -72,7 +73,7 @@ Tablet: 768px - 1024px
 
 Desktop: > 1024px
 
-🎓 Skills & Expertise
+# 🎓 Skills & Expertise
 Frontend Development
 HTML5, CSS3, JavaScript (ES6+)
 
@@ -82,7 +83,7 @@ Cross-browser Compatibility
 
 Performance Optimization
 
-Tools & Methodologies
+# Tools & Methodologies
 Git & GitHub
 
 UI/UX Principles
